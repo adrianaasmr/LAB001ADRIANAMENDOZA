@@ -2,12 +2,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+
 </head>
 
 <style>
     body {
   background-color: lightblue;
+}
+    p {
+  margin: 25px;
 }
 </style>
 
