@@ -2,16 +2,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 </head>
 
 <style>
     body {
   background-color: lightblue;
 }
-    p {
+
+p {
   margin: 25px;
 }
+
+p {outline-style: double;}
 </style>
 
 <body>
