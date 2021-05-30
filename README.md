@@ -55,18 +55,3 @@ Esto es especialmente importante porque la leucemia daña los glóbulos blancos 
 <a href="https://www.instagram.com/funcolombiana/?hl=es-la">Visita Fundación Leucemia y Linfoma en Instagram</a>           
                                                            
 <a href="https://forms.gle/RBHv7pdFko1XyhZw5">QUIZ ¿Qué tanto sabes sobre la leucemia?"</a>                                             
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
-<html>
-<head>
-  <title>Mi primera página con estilo</title>
-  <style type="text/css">
-  body {
-    color: purple;
-    background-color: #d8da3d }
-  </style>
-</head>
-
-<body>
-[etc.]
