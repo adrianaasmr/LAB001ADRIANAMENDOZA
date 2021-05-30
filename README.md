@@ -51,4 +51,5 @@ Esto es especialmente importante porque la leucemia daña los glóbulos blancos 
 <img src=https://diariocorreo.pe/resizer/Qfw0Njks0AXs65-pgd0XIQDrtJQ=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Y35JZLMSJZH2VJ7AC7M2F6SKL4.jpg" alt="leukemia">
 
 <a href="https://youtu.be/oY1Rmg17Qys">¿Qué es la leucemia?</a>
-<a href="https://www.instagram.com/funcolombiana/?hl=es-la">Fundación Leucemia y Linfoma en Instagram</a>                                    
+                                      
+<a href="https://www.instagram.com/funcolombiana/?hl=es-la">Visita Fundación Leucemia y Linfoma en Instagram</a>                                    
