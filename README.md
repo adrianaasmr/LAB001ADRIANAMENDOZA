@@ -4,6 +4,11 @@
 <html>
 <head>
 </head>
+  <style>
+    body {
+  background-color: lightblue;
+}
+</style>
 <body>
 
 <h1>Leucemia</h1>
