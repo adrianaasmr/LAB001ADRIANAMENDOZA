@@ -49,7 +49,4 @@ Esto es especialmente importante porque la leucemia daña los glóbulos blancos 
 <img src="https://www.redaccionmedica.com/images/enfermedades/leucemias.jpg
 " alt="normalblood&leukemiablood">
 
-<img src=https://diariocorreo.pe/resizer/Qfw0Njks0AXs65-pgd0XIQDrtJQ=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Y35JZLMSJZH2VJ7AC7M2F6SKL4.jpg
-
-
-" alt="leukemia">
+<img src=https://diariocorreo.pe/resizer/Qfw0Njks0AXs65-pgd0XIQDrtJQ=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Y35JZLMSJZH2VJ7AC7M2F6SKL4.jpg" alt="leukemia">
