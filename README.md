@@ -10,8 +10,8 @@
 
 <h2>¿Qué es la leucemia?</h2>
 
-<p>La leucemia es un cáncer que comienza en la médula ósea. La médula ósea es la parte interna blanda de algunos de sus huesos. En la mayoría de los casos, el cáncer pasa de la médula a las células sanguíneas. Luego, puede extenderse a otras partes del cuerpo, como órganos y tejidos. La leucemia en sí se desarrolla como resultado del crecimiento excesivo de los glóbulos blancos producidos en la médula ósea.
-</p>
+<p1>La leucemia es un cáncer que comienza en la médula ósea. La médula ósea es la parte interna blanda de algunos de sus huesos. En la mayoría de los casos, el cáncer pasa de la médula a las células sanguíneas. Luego, puede extenderse a otras partes del cuerpo, como órganos y tejidos. La leucemia en sí se desarrolla como resultado del crecimiento excesivo de los glóbulos blancos producidos en la médula ósea.
+</p1>
 <h3>¿Cómo se ven en la leucemia, los glóbulos blancos?</h3>
 
 <p>Como se observa en la leucemia, la médula ósea produce una cantidad excesiva de glóbulos blancos anormales. Los glóbulos blancos normales combaten las infecciones y están involucrados en muchos aspectos del sistema inmunológico. Las células de leucemia son glóbulos blancos anormales que no combaten las infecciones ni realizan otras funciones de manera eficiente, y crecen más rápido y durante un período de tiempo más largo que los glóbulos normales. Las células de leucemia pueden "desplazarse" o superar en número a otras células, lo que significa que las células de leucemia que no funcionan normalmente reemplazan a los glóbulos blancos que funcionan normalmente. Las células leucémicas también compiten con los glóbulos rojos normales y otros componentes sanguíneos por el espacio dentro de la sangre.</p>
@@ -50,6 +50,4 @@ Esto es especialmente importante porque la leucemia daña los glóbulos blancos 
 
 <img src=https://diariocorreo.pe/resizer/Qfw0Njks0AXs65-pgd0XIQDrtJQ=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Y35JZLMSJZH2VJ7AC7M2F6SKL4.jpg" alt="leukemia">
 
-p {
-  border: 2px solid powderblue;
-}
+p1 {border: 2px solid powderblue;}
